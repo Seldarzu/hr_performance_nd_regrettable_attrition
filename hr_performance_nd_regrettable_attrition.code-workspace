@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "hr_performance_nd_regrettable_attrition",
+			"path": "."
+		},
+		{
+			"name": "HR_analytics",
+			"path": "../HR_analytics"
+		}
+	],
+	"settings": {}
+}
